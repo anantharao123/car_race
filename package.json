@@ -1,0 +1,15 @@
+{
+  "name": "car_race",
+  "version": "1.0.0",
+  "description": "car race",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
